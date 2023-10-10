@@ -7,7 +7,7 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsilsousa29@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/Fred-Sousa)
 
-## Tecnologia que uso no dia a dia
+## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Fred-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
