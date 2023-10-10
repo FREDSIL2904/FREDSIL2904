@@ -1,7 +1,9 @@
 ## Olá, sou Fred Sousa ✌️
-Frontend Developer
+###   Frontend Developer
 
 ![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=dracula&count_private=true)
+
+## Linguagens que uso nos projetos
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Fred-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
