@@ -1,12 +1,12 @@
 ## Olá, sou Fred Sousa ✌️
-###   Frontend Developer
+<h3>Frontend Developer</h3>
 
-![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=tokyonight)
+![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=tokyonight)<br>
 
 <div  align="center" style="margin-bottom:100px;"> 
  <img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FREDSIL2904&theme=radical&mode=weekly" /> 
 
-  </div><br><br>
+  </div><br>
 
 
 
