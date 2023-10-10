@@ -4,7 +4,7 @@
 ![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=tokyonight)
 
 <div  align="center" style="margin-bottom:100px;"> 
- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FREDSIL2904&theme=radical&mode=weekly" /> 
+ <img width=100% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FREDSIL2904&theme=radical&mode=weekly" /> 
 
   </div><br><br>
 
