@@ -3,7 +3,10 @@
 
 ![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=tokyonight)
 
-
+<div  align="center" style="margin-bottom:100px"> 
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FREDSIL2904&theme=radical&mode=weekly" /> 
+ <img width=40% align="center" src="https://github-readme-stats-git-main-FREDSIL2904.vercel.app/api/top-langs/?username=FREDSIL2904&show_icons=true&theme=radical&layout=compact" /> 
+  </div>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511993323328?text=Ol%C3%A1%2C+tudo+bem%3F+Como+posso+ajudar%3F)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsilsousa29@gmail.com)
