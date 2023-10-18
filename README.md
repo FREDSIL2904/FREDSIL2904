@@ -1,5 +1,5 @@
 ## Olá, sou Fred Sousa ✌️
-<h3>Frontend Developer</h3>
+<h3>Programador Front End</h3>
 
 ![Fred Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=FREDSIL2904&show_icons=true&theme=tokyonight)<br>
 
